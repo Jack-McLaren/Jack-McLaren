@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack McLaren</h1>
 <h3 align="center">An aspiring Video Game Development student.</h3>
 
-- 🌱 I’m currently learning **Level 4 Video Game Development including C++ skills, graphics and various other skills.**
+- 🌱 I’m currently learning **Level 5 Video Game Development including C++ skills, graphics and various other skills.**
 
 - 📫 How to reach me **m021014l@student.staffs.ac.uk**
 
